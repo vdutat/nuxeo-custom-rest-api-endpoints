@@ -1,0 +1,9 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: Vincent Dutat
+Bundle-Version: 1.0.0
+Bundle-Name: nuxeo-custom-rest-api-endpoints-config-property
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.nuxeo.ecm.platform.nuxeo-custom-rest-api-endpoints-config-property;singleton=true
+Fragment-Host: org.nuxeo.ecm.platform.restapi.server
